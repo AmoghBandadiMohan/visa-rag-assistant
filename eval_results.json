@@ -1,0 +1,87 @@
+[
+  {
+    "question": "How many hours can I work per fortnight on a subclass 500 visa during semester?",
+    "answer": "A maximum of 48 hours per fortnight.",
+    "sources": [
+      "Student visa (subclass 500).txt"
+    ],
+    "top_similarity": 0.766
+  },
+  {
+    "question": "Can I work unlimited hours during scheduled course breaks?",
+    "answer": "No, you cannot work unlimited hours during scheduled course breaks, but you can work unlimited hours at other times, such as during breaks if your course was deferred or suspended, or if your enrolment has been cancelled due to the default of your education provider.",
+    "sources": [
+      "Student visa (subclass 500).txt"
+    ],
+    "top_similarity": 0.769
+  },
+  {
+    "question": "What is the age limit to apply for a subclass 485 visa?",
+    "answer": "You must be aged 35 years or under when you apply for a subclass 485 visa.",
+    "sources": [
+      "Temporary Graduate visa (subclass 485).txt",
+      "485 study requirement detail page.txt"
+    ],
+    "top_similarity": 0.748
+  },
+  {
+    "question": "What's the difference between the Post-Vocational Education Work stream and Post-Higher Education Work stream?",
+    "answer": "I don't know.",
+    "sources": [
+      "Temporary Graduate visa (subclass 485).txt",
+      "Department of Home Affairs subclass 485 official page.txt"
+    ],
+    "top_similarity": 0.772
+  },
+  {
+    "question": "Do I need OSHC for my whole stay in Australia?",
+    "answer": "I don't know.",
+    "sources": [
+      "Temporary Graduate visa (subclass 485).txt",
+      "OSHC  adequate health insurance requirement.txt"
+    ],
+    "top_similarity": 0.741
+  },
+  {
+    "question": "How many days do I have to notify my provider of my address after arriving?",
+    "answer": "7 days.",
+    "sources": [
+      "Student visa (subclass 500).txt",
+      "OSHC  adequate health insurance requirement.txt"
+    ],
+    "top_similarity": 0.623
+  },
+  {
+    "question": "Can I apply for a Skills in Demand 482 visa while holding a 485 visa?",
+    "answer": "I don't know.",
+    "sources": [
+      "Temporary Graduate visa (subclass 485).txt",
+      "Department of Home Affairs subclass 500 official page.txt",
+      "485 study requirement detail page.txt"
+    ],
+    "top_similarity": 0.669
+  },
+  {
+    "question": "What happens if I exceed my work hour limit?",
+    "answer": "If I exceed my work hour limit, you may have your student visa cancelled.",
+    "sources": [
+      "Student visa (subclass 500).txt"
+    ],
+    "top_similarity": 0.661
+  },
+  {
+    "question": "What's the capital of France?",
+    "answer": "I don't know \u2014 this isn't covered in the knowledge base.",
+    "sources": [],
+    "top_similarity": 0.424
+  },
+  {
+    "question": "Can I bring my pet dog to Australia on a student visa?",
+    "answer": "I don't know. The context only provides information about student visas, their application process, and visa durations, but it does not mention bringing pets to Australia on a student visa.",
+    "sources": [
+      "Student visa (subclass 500).txt",
+      "Department of Home Affairs subclass 500 official page.txt"
+    ],
+    "top_similarity": 0.759
+  }
+]
