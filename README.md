@@ -11,10 +11,10 @@ Built as part of the WIL Project (COSC2669/COSC2816), following the Walert RAG p
 | Student ID | Full Name | Role |
 |---|---|---|
 | S4182571 | Amogh Bandadi Mohan | Knowledge Base Lead |
-| S4189448 | Chiranthan Channanja Swamy | RAG Pipeline Lead |
+| S4189448 | Chiranthan Channanja Swamy | Coordination & Docs Lead |
 | S4164128 | Tanishq Deshpande | Evaluation & Testing Lead |
 | S4175196 | Varnika Chandrashekar | Prototype & Frontend Lead |
-| S4122887 | Yashas Raj Dinesh | Coordination & Docs Lead |
+| S4122887 | Yashas Raj Dinesh | RAG Pipeline Lead |
 
 ## Project Aim
 
